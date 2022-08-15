@@ -1,0 +1,12 @@
+.nav{
+    background: #1a1a1a;
+    padding: 5px;
+    width: 100%;
+}
+.ul {
+    list-style: none;
+    display: flex;
+}
+.ul li {
+    padding: 5px;
+}
