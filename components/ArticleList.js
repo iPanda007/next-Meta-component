@@ -7,6 +7,7 @@ const ArticleList = ({article}) => {
     {
         article.map((article,key)=>(
            <ArticleItem
+            key={key}
              article={article}
            />
         ))
